@@ -1,0 +1,2 @@
+# Server Migration
+This document is slightly different than the previous since I am outlining and writing out an actual situation I am working through and I am bringing you along with me. This one was brought to me this morning and we should lay out what is needed. There is a server running esxi version 4. The VMs on this server are v4 vmdk files and we will be migrating to a version 8 esxi server that is separate. What makes this more challenging, we must not let there be any down time for those VMs. 
